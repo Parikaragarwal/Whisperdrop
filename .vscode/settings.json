@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "customReact": true,
+        "Learn_hooks": true,
+        "TailProps": true,
+        "09themeChanger/README.md": true,
+        "09themeChanger/package-lock.json": true,
+        "**/node_modules": false
+    }
+}
